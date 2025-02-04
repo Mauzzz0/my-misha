@@ -10,5 +10,8 @@
   "description": "",
   "dependencies": {
     "dayjs": "^1.11.13"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
   }
 }
